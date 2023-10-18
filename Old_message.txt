@@ -1,1 +1,1 @@
-It is interesting to learn more about git.
+It is interesting to learn more about git online. I am practicing on gitbash based on a Youtube video.
