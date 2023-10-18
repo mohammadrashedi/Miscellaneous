@@ -1,1 +1,1 @@
-There is no message here.
+It is interesting to learn more about git.
